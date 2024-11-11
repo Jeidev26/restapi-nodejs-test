@@ -1,0 +1,27 @@
+/* styles.css */
+body {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    height: 100vh; /* Hace que el body ocupe el 100% de la altura de la ventana */
+    margin: 0; /* Elimina el margen por defecto */
+    background-color: black; /* Color de fondo negro */
+    color: white; /* Color del texto blanco */
+    font-family: Arial, sans-serif; /* Tipografía opcional */
+}
+
+h1 {
+    text-align: center; /* Centra el texto dentro del h1 */
+}
+span{
+    color: #11ff11
+}
+
+p{
+    font-size: 19px;
+    color: aqua;
+}
+
+a{
+    color:purple
+}

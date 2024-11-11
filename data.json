@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "Chelsea",
+    "color": "Azul",
+    "Champions": 2
+  },
+  {
+    "id": 2,
+    "nombre": "Real Madrid",
+    "color": "Blanco",
+    "Champions": 15
+  },
+  {
+    "id": 3,
+    "nombre": "Manchester United",
+    "color": "Red",
+    "Champions": 3
+  },
+  {
+    "id": 4,
+    "nombre": "Bayern",
+    "color": "Rojo",
+    "Champions": 6
+  },
+  {
+    "id": 5,
+    "nombre": "Milan",
+    "color": "Rojinegro",
+    "Champions": 7
+  }
+]
